@@ -15,7 +15,7 @@
     "rest",
     "nodejs"
   ],
-  "author": "Hamdi Madani",
+  "author": "Madani Hamdi",
   "license": "ISC",
   "engines": {
     "node": ">=14.0.0",
